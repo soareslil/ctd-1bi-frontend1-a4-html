@@ -1,6 +1,8 @@
 ## BEM VINDX AO MEU REPOSITÓRIO 👩‍💻👩‍💻✨
 
-### __Aula 04 -  HTML__
+## 💻✨ CTD : Primeiro Bimestre 
+## 📃✨ Disciplina: Front End 1  
+## 👩‍💻💻 __Aula 04:  HTML__
 
 <br>
 
